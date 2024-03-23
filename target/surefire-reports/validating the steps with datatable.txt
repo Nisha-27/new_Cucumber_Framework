@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: validating the steps with datatable
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.319 s <<< FAILURE! - in validating the steps with datatable
+passing data with single heading with multiple value in a step using DataTable(validating the steps with datatable)  Time elapsed: 0.319 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+
+passing data with single heading with multiple value in a step using DataTable(validating the steps with datatable)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "this.driver" is null
+
+passing data with single heading with multiple value in a step using DataTable(validating the steps with datatable)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.close()" because "this.driver" is null
+

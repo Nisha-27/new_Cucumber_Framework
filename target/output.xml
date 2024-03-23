@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.228" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="validating the steps with datatable" name="passing data with single heading with multiple value in a step using DataTable" time="0.019">
+<system-out><![CDATA[
+Given I want pass heading with mulitple value...............................passed
+Then the data has been passed...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
