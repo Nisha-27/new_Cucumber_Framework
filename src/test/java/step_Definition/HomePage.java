@@ -2,9 +2,10 @@ package step_Definition;
 
 public class HomePage {
 
-  public void homepageinRemote()
-  {
-    
-  }
+	public void localHomePage()
+	{
+		System.out.println("finilaized home page");
+		
+	}
 
 }
